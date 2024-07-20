@@ -13,8 +13,6 @@
 # 0 * * * * /home/[USERID]/check-ddns-record.sh
 #
 
-#!/bin/sh
-
 # Define constants
 BASE_URL='https://uptimekuma.yourdomain.com/api/push/c8ArlWc7Q3?status='
 DOMAIN=''
