@@ -30,9 +30,9 @@ If the Push URL does not receive a HTTP request within Heart Beat internal (defa
 ## View Badges
 Status and Uptime [Uptime Kuma Badges](https://github.com/louislam/uptime-kuma/wiki/Badge) can be configured.
 
-![tunnel status](https://uptime.netwrk8.com/api/badge/12/status)
-![tunnel uptime](https://uptime.netwrk8.com/api/badge/12/uptime)
-![tunnel uptime 30d](https://uptime.netwrk8.com/api/badge/12/uptime/720?label=Uptime(30d)&labelSuffix=d)
+![tunnel status](https://uptime.netwrk8.com/api/badge/17/status)
+![tunnel uptime](https://uptime.netwrk8.com/api/badge/17/uptime)
+![tunnel uptime 30d](https://uptime.netwrk8.com/api/badge/17/uptime/720?label=Uptime(30d)&labelSuffix=d)
 
 # Acknowledgments
 * [pfsense](https://www.pfsense.org/)
